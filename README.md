@@ -1,0 +1,4 @@
+- Criar duas novas pastas com nomes de "input" e "output"
+- Copiar os arquivos ".PDFs" que estão na pasta "Processos" e colar na pasta "input"
+- Executar o código
+- Ao executá-lo, na pasta "output" irá gerar dois arquivos ".csv", um chamado "resultados_completo.csv" e ou chamado "segmentado.csv", onde estará presente os conteúdos extraídos dos PDFs que estão na pasta "input".
